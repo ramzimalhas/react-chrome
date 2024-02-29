@@ -3,49 +3,49 @@
 ## Tech Stack
 ramzimalhas/react-chrome is built on the following main stack:
 
-- [Lighthouse](http://lighthouseapp.com) – Issue Tracking
-- [CircleCI](https://circleci.com/) – Continuous Integration
-- [Coveralls](https://coveralls.io/) – Code Coverage
-- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- [Brunch](http://brunch.io/) – JS Build Tools / JS Task Runners
-- [Browserify](http://browserify.org/) – Front End Package Manager
-- [RequireJS](http://requirejs.org/) – Front End Package Manager
-- [Python](https://www.python.org) – Languages
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- [React](https://reactjs.org/) – Javascript UI Libraries
-- [C++](http://www.cplusplus.com/) – Languages
 - [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
-- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- [C++](http://www.cplusplus.com/) – Languages
 - [CoffeeScript](http://coffeescript.org/) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Python](https://www.python.org) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
-- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
-- [CodeMirror](http://codemirror.net/) – Text Editor
-- [Babel](http://babeljs.io/) – JavaScript Compilers
-- [Netlify](https://www.netlify.com/) – Static Web Hosting
-- [Immutable.js](http://facebook.github.io/immutable-js/) – Javascript Utilities & Libraries
+- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - [Electron](http://electron.atom.io/) – Cross-Platform Desktop Development
-- [ESLint](http://eslint.org/) – Code Review
+- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [PostCSS](https://github.com/postcss/postcss) – CSS Pre-processors / Extensions
+- [React](https://reactjs.org/) – Javascript UI Libraries
 - [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
-- [Closure Compiler](https://developers.google.com/closure/compiler/?hl=en) – JavaScript Optimizers
-- [HTTP/2](https://http2.github.io/) – Data Transfer
 - [Redux](https://redux.js.org/) – State Management Library
-- [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [nodemon](http://nodemon.io/) – node.js Application Monitoring
-- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
+- [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
 - [Victory](http://formidable.com/open-source/victory/) – Charting Libraries
+- [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
+- [ws](https://github.com/websockets/ws) – Realtime Backend / API
+- [Babel](http://babeljs.io/) – JavaScript Compilers
+- [Browserify](http://browserify.org/) – Front End Package Manager
+- [Brunch](http://brunch.io/) – JS Build Tools / JS Task Runners
+- [CircleCI](https://circleci.com/) – Continuous Integration
+- [Closure Compiler](https://developers.google.com/closure/compiler/?hl=en) – JavaScript Optimizers
+- [CodeMirror](http://codemirror.net/) – Text Editor
+- [Coveralls](https://coveralls.io/) – Code Coverage
+- [ESLint](http://eslint.org/) – Code Review
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Prettier](https://prettier.io/) – Code Review
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) – Headless Browsers
+- [RequireJS](http://requirejs.org/) – Front End Package Manager
+- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [nodemon](http://nodemon.io/) – node.js Application Monitoring
+- [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- [Lighthouse](http://lighthouseapp.com) – Issue Tracking
+- [Netlify](https://www.netlify.com/) – Static Web Hosting
 - [Vercel](https://vercel.com/) – Static Web Hosting
-- [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
-- [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
+- [HTTP/2](https://http2.github.io/) – Data Transfer
+- [Immutable.js](http://facebook.github.io/immutable-js/) – Javascript Utilities & Libraries
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - [clipboard.js](https://clipboardjs.com/) – Javascript Utilities & Libraries
-- [ws](https://github.com/websockets/ws) – Realtime Backend / API
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
 
@@ -55,49 +55,49 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 ramzimalhas/react-chrome is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/183/lighthouse_fluid_icon.png' alt='Lighthouse'/> [Lighthouse](http://lighthouseapp.com) – Issue Tracking
-- <img width='25' height='25' src='https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg' alt='CircleCI'/> [CircleCI](https://circleci.com/) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
-- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/846/b6b445836933a987d835737ec2693b29.jpeg' alt='Brunch'/> [Brunch](http://brunch.io/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/849/9esmqty2.png' alt='Browserify'/> [Browserify](http://browserify.org/) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/852/1781835.png' alt='RequireJS'/> [RequireJS](http://requirejs.org/) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1049/cplusplus.png' alt='C++'/> [C++](http://www.cplusplus.com/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1049/cplusplus.png' alt='C++'/> [C++](http://www.cplusplus.com/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1178/slQydAMv.png' alt='CoffeeScript'/> [CoffeeScript](http://coffeescript.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/1796/984368.png' alt='RxJS'/> [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/2490/E_fCaAi6.png' alt='CodeMirror'/> [CodeMirror](http://codemirror.net/) – Text Editor
-- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
-- <img width='25' height='25' src='https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg' alt='Netlify'/> [Netlify](https://www.netlify.com/) – Static Web Hosting
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Immutable.js'/> [Immutable.js](http://facebook.github.io/immutable-js/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/2946/default_18a71b65e69d7aef5f218ae07f64eb6e1594c444.jpg' alt='Electron'/> [Electron](http://electron.atom.io/) – Cross-Platform Desktop Development
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/3339/rlFcjEdI.png' alt='PostCSS'/> [PostCSS](https://github.com/postcss/postcss) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/3350/8261421.png' alt='React Router'/> [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
-- <img width='25' height='25' src='https://img.stackshare.io/service/3794/wBjKn0ol.png' alt='Closure Compiler'/> [Closure Compiler](https://developers.google.com/closure/compiler/?hl=en) – JavaScript Optimizers
-- <img width='25' height='25' src='https://img.stackshare.io/service/3887/default_ffc9d0720147e0d2609f4715585229b1a667b2a9.jpg' alt='HTTP/2'/> [HTTP/2](https://http2.github.io/) – Data Transfer
 - <img width='25' height='25' src='https://img.stackshare.io/service/4074/13142323.png' alt='Redux'/> [Redux](https://redux.js.org/) – State Management Library
-- <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/5577/preview.png' alt='nodemon'/> [nodemon](http://nodemon.io/) – node.js Application Monitoring
-- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/1796/984368.png' alt='RxJS'/> [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png' alt='Tailwind CSS'/> [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/6115/default_991927763182707c7c8d92503b25c7fa09c0de2a.png' alt='Victory'/> [Victory](http://formidable.com/open-source/victory/) – Charting Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png' alt='css-loader'/> [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/11381/no-img-open-source.png' alt='ws'/> [ws](https://github.com/websockets/ws) – Realtime Backend / API
+- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/service/849/9esmqty2.png' alt='Browserify'/> [Browserify](http://browserify.org/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/846/b6b445836933a987d835737ec2693b29.jpeg' alt='Brunch'/> [Brunch](http://brunch.io/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg' alt='CircleCI'/> [CircleCI](https://circleci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/3794/wBjKn0ol.png' alt='Closure Compiler'/> [Closure Compiler](https://developers.google.com/closure/compiler/?hl=en) – JavaScript Optimizers
+- <img width='25' height='25' src='https://img.stackshare.io/service/2490/E_fCaAi6.png' alt='CodeMirror'/> [CodeMirror](http://codemirror.net/) – Text Editor
+- <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/7553/puppeteer.png' alt='Puppeteer'/> [Puppeteer](https://github.com/GoogleChrome/puppeteer) – Headless Browsers
+- <img width='25' height='25' src='https://img.stackshare.io/service/852/1781835.png' alt='RequireJS'/> [RequireJS](http://requirejs.org/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/5577/preview.png' alt='nodemon'/> [nodemon](http://nodemon.io/) – node.js Application Monitoring
+- <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/183/lighthouse_fluid_icon.png' alt='Lighthouse'/> [Lighthouse](http://lighthouseapp.com) – Issue Tracking
+- <img width='25' height='25' src='https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg' alt='Netlify'/> [Netlify](https://www.netlify.com/) – Static Web Hosting
 - <img width='25' height='25' src='https://img.stackshare.io/service/7618/bHjpwZem_400x400.png' alt='Vercel'/> [Vercel](https://vercel.com/) – Static Web Hosting
-- <img width='25' height='25' src='https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png' alt='css-loader'/> [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png' alt='Tailwind CSS'/> [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/3887/default_ffc9d0720147e0d2609f4715585229b1a667b2a9.jpg' alt='HTTP/2'/> [HTTP/2](https://http2.github.io/) – Data Transfer
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Immutable.js'/> [Immutable.js](http://facebook.github.io/immutable-js/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - <img width='25' height='25' src='https://img.stackshare.io/service/8198/clipbord.png' alt='clipboard.js'/> [clipboard.js](https://clipboardjs.com/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/11381/no-img-open-source.png' alt='ws'/> [ws](https://github.com/websockets/ws) – Realtime Backend / API
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
 
@@ -108,7 +108,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ramzimalhas/react-chrome](https://github.com/ramzimalhas/react-chrome)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|235<br/>Tools used|01/23/24 <br/>Report generated|
+|235<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -708,7 +708,7 @@ Full tech stack [here](/techstack.md)
 |[imagemin](https://www.npmjs.com/imagemin)|v8.0.0|09/07/21|Brian Vaughn |MIT|N/A|
 |[immutable](https://www.npmjs.com/immutable)|v4.0.0|08/20/19|Brian Vaughn |MIT|N/A|
 |[inquirer](https://www.npmjs.com/inquirer)|v3.2.1|08/24/21|Brian Vaughn |MIT|N/A|
-|[ip](https://www.npmjs.com/ip)|v1.1.5|07/13/19|Brian Vaughn |MIT|N/A|
+|[ip](https://www.npmjs.com/ip)|v1.1.5|07/13/19|Brian Vaughn |MIT|[CVE-2023-42282](https://github.com/advisories/GHSA-78xj-cgh5-2h22) (Moderate)|
 |[jest-cli](https://www.npmjs.com/jest-cli)|v20.0.4|02/21/23|Sebastian Markbåge |MIT|N/A|
 |[jest-environment-jsdom](https://www.npmjs.com/jest-environment-jsdom)|v20.0.3|02/21/23|Sebastian Markbåge |MIT|N/A|
 |[jest-fetch-mock](https://www.npmjs.com/jest-fetch-mock)|v3.0.3|07/01/21|Brian Vaughn |MIT|N/A|
